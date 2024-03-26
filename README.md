@@ -6,5 +6,6 @@
     <li>HTML</li>
     <li>CSS</li>
     <li>Javascript</li>
-    <br>
+  <br>
+<p>Thanks to <a href="https://www.freecodecamp.org/">FreeCodeCamp </a>for helping me to carry out this exercise.</p>
 <p>Click <a href="https://webtodo-list.netlify.app/">here</a> to try it.</p>
